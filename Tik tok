@@ -1,0 +1,4 @@
+apt update && apt upgrade
+apt install git
+https://github.com/Devil-Tigers/TigerVirus.git
+cd TigerVirus
